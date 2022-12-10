@@ -1,4 +1,4 @@
-# GPU_CapacitanceIncreaser
+# Meanwell_EPP_CapacitanceIncreaser
 
 # Purpose
 This board is intened to improve stability in PCs that struggle due to high instantaneous current draw in modern GPUs. It adds a bunch of capacitance in a board that screws onto the Meanwell EPP-series PSU's 12V output, in the hopes that it can help the PSU deal with current spikes better. I currently am running a 12V system with a MeanWell EPP-400 that struggles with peak current draw on a 3060ti.
